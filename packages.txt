@@ -1,0 +1,7 @@
+socket
+time
+sys
+random
+spacy
+requests
+bs4 

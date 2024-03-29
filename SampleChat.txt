@@ -1,0 +1,36 @@
+Asking about invention:
+
+[23:21:24] <Guest0> silly-bot: where was fevicol invented
+[23:21:25] <silly-bot> Guest0: fevicol was invented in India in the year 1959
+[23:21:29] <Guest0> silly-bot: where was slipper invented
+[23:21:30] <silly-bot> Guest0: slipper was invented in China in the year the 12th century
+[23:21:41] <Guest0> silly-bot: where was toyota invented
+[23:21:42] <silly-bot> Guest0: toyota was invented in Toyota City in the year 1933
+
+
+
+Simple Conversation where the bot had to wait for the user to reach:
+[23:10:33] <silly-bot> Guest0: excuse me, hello?
+[23:10:42] <Guest0> silly-bot: hi
+[23:10:42] <silly-bot> Guest0: how are you?
+[23:10:50] → chat-bot has joined
+[23:10:50] <Guest0> silly-bot: I'm good
+[23:10:52] <silly-bot> Guest0: I hope it gets better!
+[23:10:58] <Guest0> silly-bot: forget
+[23:10:58] <silly-bot> Guest0: Forgetting you and this world..
+
+
+Simple die command:
+[20:53:49] <Guest0> gatito-bot: die
+[20:53:50] <gatito-bot> Guest0: Goodbye Amigo!
+
+
+
+Simple Conversation where user starts the convo:
+[19:47:46] <Guest0> gatito-bot: hi
+[19:47:47] <gatito-bot> Guest0: hi back!
+[19:47:51] <Guest0> gatito-bot: what's up
+[19:47:51] <gatito-bot> Guest0: all is good
+[19:47:51] <gatito-bot> Guest0: how about you?
+[19:48:03] <Guest0> gatito-bot: great
+[19:48:03] <gatito-bot> Guest0: I hope it gets better!
